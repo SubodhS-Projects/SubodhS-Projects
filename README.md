@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Subodh Shahare 👋
 
-<!--
-**SubodhS-Projects/SubodhS-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a HR Data Analyst passionate about turning data into actionable insights. I specialize in Excel,Power BI and Data Visualization.
 
-Here are some ideas to get you started:
+- 💼 **Current Role**: Senior Workforce Administration Analyst 
+- 📍 **Location**: Pune,Maharashtra
+- 🔗 **LinkedIn**: www.linkedin.com/in/subodhshahare
+- 🌐 **Website**: https://subodh-s.my.canva.site/home
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Data Visualization**:Excel,Power BI 
+- **Programming**:Basic SQL
+- **Tools**: Excel Power Bi 
+
+## Projects
+Here are some of my projects:
+
+
+## Contact Me
+Feel free to reach out for collaboration or opportunities:
+- Email:Subodh.shahare@gmail.com
+- LinkedIn:www.linkedin.com/in/subodhshahare
