@@ -39,6 +39,7 @@ I'm an **HR Data Analyst** with a strong passion for transforming raw HR data in
 ---
 
 ## 📂 Featured Projects
+🔹[Product Data Anaysis Interactive Dashboard (Excel)](https://github.com/SubodhS-Projects/Excel-Interactive-Product-Data-Analysis-Dashboard)
 🔹[Banking Interactive Dashboard (Excel)](https://github.com/SubodhS-Projects/Excel-Interactive-Banking-Dashboard)
 🔹[Supply Chain Interactive Dashboard (Excel)](https://github.com/SubodhS-Projects/Excel-Interactive-Supply-Chain-Dashboard-)
 🔹[HR Interactive Dashboard (Power BI)](https://github.com/SubodhS-Projects/HR-Interactive-Dashboard)
